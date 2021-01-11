@@ -9,8 +9,8 @@ for i in range(1,b+1):
 print("s = ",sum)
 
 #方法二
-# a,n=input().split()
-# sum=0
-# for i in range(1,int(n)+1):
-#     sum+=int(a*i)
-# print("s =",sum)
+a,n=input().split()
+sum=0
+for i in range(1,int(n)+1):
+    sum+=int(a*i)
+print("s =",sum)
