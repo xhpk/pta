@@ -1,0 +1,5 @@
+n=input()
+a=int(n[0])
+b=int(n[1])
+c=int(n[2])
+print(a+b*10+c*100)
